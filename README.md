@@ -1,4 +1,4 @@
-# Instructions
+# Restaurant Review App
 
 1. Create a data model for the restaurant review app below using diagramming software or a whiteboard
 1. Replace `restaurants_model.jpg` with your diagram
